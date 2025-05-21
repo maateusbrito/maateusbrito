@@ -37,12 +37,13 @@
 ---
 
 ### 🚀 Projetos em destaque
-
-- 🧺 **CestasFast** – Plataforma de vendas de cestas personalizadas com painel administrativo completo, pagamentos via PIX e cartão.
-- 🌐 **Site + Portfólio Profissional** – Apresentação visual de projetos, tecnologias utilizadas e formas de contato.
+- 🧺 **CestasFast** – Plataforma de vendas de cestas personalizadas com painel administrativo completo, pagamentos via PIX e cartão. [https://cestafast.netlify.app/](https://cestafast.netlify.app/)
+- 🌐 **Site + Portfólio Profissional** – Apresentação visual de projetos, tecnologias utilizadas e formas de contato. [https://mateusdev.netlify.app/](https://mateusdev.netlify.app/)
 - ⚖️ **ERP Jurídico** – Sistema completo de gestão para escritórios de advocacia, com controle de processos, documentos e financeiro.
-- 🧠 **Taskminder** – Organizador de tarefas com assistente inteligente para produtividade pessoal.
-- 🛒 **Cesta Inteligente por Voz** – Aplicativo de compras controlado por comandos de voz com integração de IA.
+- 🧠 **Taskminder** – Organizador de tarefas com assistente inteligente para produtividade pessoal. [https://apptaskminder.netlify.app/](https://apptaskminder.netlify.app/)
+- 🛒 **Cesta Inteligente por Voz** – Monte sua cesta de supermercado adicionando itens, quantidade e preço conforme você fala. [https://listasupermercadotask.netlify.app/](https://listasupermercadotask.netlify.app/)
+- 🏠 **Site do Corretor Imobiliário** – Plataforma para divulgação e gestão de imóveis. [https://lucasagenteimobiliario.com/](https://lucasagenteimobiliario.com/)
+
 
 ---
 
