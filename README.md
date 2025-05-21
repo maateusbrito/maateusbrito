@@ -11,15 +11,18 @@
 ### 🛠️ Tecnologias que uso no dia a dia
 
 <div align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<img height="40" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img height="40" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img height="40" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img height="40" alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img height="40" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img height="40" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img height="40" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img height="40" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img height="40" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="40" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img height="40" alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
@@ -28,25 +31,26 @@
 ### ⚙️ Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maateusbrito&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maateusbrito&layout=compact&theme=radical"/>
 </div>
 
 ---
 
-### 📌 Projetos em destaque
+### 🚀 Projetos em destaque
 
-- 📦 Sistema de gestão de cestas personalizadas com painel administrativo
-- 📊 Plataforma de previsão esportiva com análise de dados automatizada
-- 🧾 Integrações com PagBank e Mercado Pago para pagamentos via PIX e cartão
-- 🧩 APIs REST estruturadas com autenticação, MongoDB e containers
+- 🧺 **CestasFast** – Plataforma de vendas de cestas personalizadas com painel administrativo completo, pagamentos via PIX e cartão.
+- 🌐 **Site + Portfólio Profissional** – Apresentação visual de projetos, tecnologias utilizadas e formas de contato.
+- ⚖️ **ERP Jurídico** – Sistema completo de gestão para escritórios de advocacia, com controle de processos, documentos e financeiro.
+- 🧠 **Taskminder** – Organizador de tarefas com assistente inteligente para produtividade pessoal.
+- 🛒 **Cesta Inteligente por Voz** – Aplicativo de compras controlado por comandos de voz com integração de IA.
 
 ---
 
 ### 💬 Vamos conversar?
 
-📫 Você pode me encontrar em:
-- [LinkedIn](https://www.linkedin.com/in/mateus-brito-628a13100/)
+📫 Você pode me encontrar em:  
+- [LinkedIn](https://www.linkedin.com/in/mateus-brito-628a13100/)  
 - ✉️ Email: m.x.3@homail.com
 
 ---
