@@ -53,9 +53,9 @@
 
 ### 💬 Vamos conversar?
 
-🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-brito-628a13100/)
+🔗 LinkedIn:    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-brito-628a13100/)
 
-📧 Email: [![Email](https://img.shields.io/badge/-m.x.3@homail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.x.3@homail.com)
+📧 Email:   [![Email](https://img.shields.io/badge/-m.x.3@homail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.x.3@homail.com)
 
 
 ---
