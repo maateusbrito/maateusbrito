@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Mateus 👋</h1>
 
 <p align="center">
-  <h1> 💻 Engenheiro de Software em formação | Desenvolvedor Full Stack</h1> <br> 
-  <h1>🚀 Apaixonado por tecnologia, automação e soluções inteligentes</h1> <br>
-  <h1>📈 Focado em backend, integrações e arquitetura de sistemas </h1>
+  <h3> 💻 Engenheiro de Software em formação | Desenvolvedor Full Stack</h3> <br> 
+  <h3>🚀 Apaixonado por tecnologia, automação e soluções inteligentes</h3> <br>
+  <h3>📈 Focado em backend, integrações e arquitetura de sistemas </h3>
 </p>
 
 ---
